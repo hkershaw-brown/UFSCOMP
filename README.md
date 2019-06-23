@@ -1,6 +1,6 @@
 # WW 6.07 and CICE 
 
-Woring from forks of CESM respositories 
+Working from forks of CESM respositories 
 
  Repository  |  cesm branch    | hkershaw branch
  ------------|-----------------|-------------
