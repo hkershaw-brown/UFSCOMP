@@ -10,6 +10,7 @@ Working from forks of CESM respositories
  CICE        |  472a2f29       | hkershaw-brown/cice_fsd
 
  UFSCOMP changes are in Externals.cfg to pick up the new WW and CICE respositories
+ 
  CMPES repostitory is given in Externals_cime.cfg (fd.yaml, mediator)
 
 # UFSCOMP
