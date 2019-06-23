@@ -5,10 +5,12 @@ Woring from forks of CESM respositories
  Repository  |  cesm branch    | hkershaw branch
  ------------|-----------------|-------------
  UFSCOMP     |  app_cesm-cmeps | hkershaw-brown/ww3-6.07-cice-cmeps 
+ CMEPS       |  9366a49        | hkershaw-brown/ww_cice_fsd
  WW3-CESM    |  nuopc_cap      | hkershaw-brown/nuopc_cap_6.07
  CICE        |  472a2f29       | hkershaw-brown/cice_fsd
 
  UFSCOMP changes are in Externals.cfg to pick up the new WW and CICE respositories
+ CMPES repostitory is given in Externals_cime.cfg (fd.yaml, mediator)
 
 # UFSCOMP
 
