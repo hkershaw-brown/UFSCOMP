@@ -8,7 +8,7 @@ Working from forks of CESM respositories
    .         |  .              | hkershaw-brown/app_cesm-cmeps
  CMEPS       |  9366a49        | ~hkershaw-brown/CMEPS/ww_cice_fsd~ merged 
    .         |  .              | hkershaw-brown/CMEPS/master (cime/src/drivers/nuopc)
-   .         |  .              | ~hkershaw-brown/CMEPS/ww_cice_fsd_revert (build error with CMEPS master)~
+   .         |  .              | ~hkershaw-brown/CMEPS/ww_cice_fsd_revert (build error with CMEPS master)~ merged
  WW3-CESM    |  nuopc_cap      | hkershaw-brown/WW3-CESM/nuopc_cap_6.07
  CICE        |  472a2f29       | hkershaw-brown/CICE/cice_fsd
 
