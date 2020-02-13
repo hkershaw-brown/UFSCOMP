@@ -22,5 +22,6 @@ do
   echo " "$comp
   echo "====="
   git status | grep modified
+  #git remote -v
   cd $rootdir
 done
