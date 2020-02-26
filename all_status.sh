@@ -24,3 +24,6 @@ do
   git status | grep modified
   cd $rootdir
 done
+
+cd cime/src/drivers/nuopc
+git status | grep modified
