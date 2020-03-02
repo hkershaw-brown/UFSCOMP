@@ -22,6 +22,9 @@ do
   echo " "$comp
   echo "====="
   git status | grep modified
+  branchname=$(git rev-parse --abbrev-ref HEAD)
+  remotename=$(git remote -v | grep fetch)
+  echo $branchname '::' $remotename
   cd $rootdir
 done
 
