@@ -21,7 +21,9 @@ do
   echo "====="
   echo " "$comp
   echo "====="
-  git status | grep modified
+  #git status | grep modified
+  mods=$(git status | grep modified)
+  echo -e "\e[31m$mods\e[0m"
   branchname=$(git rev-parse --abbrev-ref HEAD)
   remotename=$(git remote -v | grep fetch)
   echo $branchname '::' $remotename
