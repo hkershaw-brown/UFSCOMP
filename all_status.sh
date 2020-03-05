@@ -39,3 +39,4 @@ branchname=$(git rev-parse --abbrev-ref HEAD)
 remotename=$(git remote -v | grep fetch)
 mods=$(git status | grep modified)
 echo -e "\e[31m$mods\e[0m"
+echo $branchname '::' $remotename
